@@ -25,3 +25,7 @@ A contact form for visitors to get in touch
 Smooth user interface and navigation
 
 Visually consistent layout and color scheme
+
+
+AUTHER:
+AMAN SHAFAQAT
